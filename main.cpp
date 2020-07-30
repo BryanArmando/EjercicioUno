@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-
+//ejericios de un taller
 int main(){
 int opc, cont=0,i=1;
 float saldo = 0,dinero; 	
